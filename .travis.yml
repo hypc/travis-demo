@@ -12,4 +12,6 @@ deploy:
     keep-history: true
     local-dir: dist
     github-token: 3dd32e4431bec59155406559983c8ecf4f3d57b3
+    on:
+        branch: master
 
