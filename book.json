@@ -1,0 +1,22 @@
+{
+    "title": "travis demo",
+    "author": "hypc",
+    "description": "",
+    "repository": {
+        "type": "git",
+        "url": ""
+    },
+    "plugins": [
+        "theme-opendocs", "advanced-emoji", "bg-nest",
+        "ace", "codeblock-label",
+        "simpletabs",
+        "include",
+        "katex",
+        "-highlight", "prism",
+        "-lunr", "-search", "search-pro",
+        "-sharing",
+        "-fontsettings"
+    ],
+    "gitbook": ">=3.0.0",
+    "pluginsConfig": {}
+}
