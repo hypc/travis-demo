@@ -10,7 +10,7 @@ deploy:
     provider: pages
     skip-cleanup: true
     keep-history: true
-    local-dir: dist
+    local-dir: _book
     github-token: 3dd32e4431bec59155406559983c8ecf4f3d57b3
     on:
         branch: master
