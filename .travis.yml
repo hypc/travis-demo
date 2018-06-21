@@ -11,5 +11,5 @@ deploy:
   keep-history: true
   local-dir: _book
   on:
-    branch: master
+    tags: true
   github-token: $GITHUB_TOKEN
